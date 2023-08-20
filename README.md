@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huttongrabiel&layout=compact&hide=Assembly,HTML,SCSS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huttongrabiel&layout=compact&hide=Lua,Assembly,HTML,SCSS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
